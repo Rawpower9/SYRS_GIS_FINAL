@@ -1,0 +1,560 @@
+* Lake Michigan
+    * Chinook Salmon
+    * Coho Salmon
+    * Steelhead
+    * Lake Trout
+    * Brown Trout
+* Lake Huron
+    * Lake whitefish
+    * Lake trout
+    * Yellow perch
+    * Walleye
+    * Northern pike
+    * Channel catfish
+    * Coho Salmon
+    * White Bass
+* Mississippi River
+    * Walley
+    * Sauger
+    * Catfish
+    * White bass
+    * Freshwater drum
+    * Crappie
+    * bluegill
+    * largemouth bass
+    * white bass
+* Great Salt Lake
+    * No fish
+* Lake Mono
+    * No fish
+* Salton Sea
+    * Mozambique tilapia
+    * Rebelly tilapia
+    * Wami tilapia
+    * Western mosquitofish
+    * European carp
+    * Desert pupfish
+    * Red shiner
+* Saline River
+    * Warmouth
+    * longear
+    * Green sunfish
+    * Bluegills
+    * Crappie
+    * Panfish
+    * Channel catfish
+    * Rock bass
+    * smallmouth bass
+* Vermilion River
+    * Brown Trout
+    * Rainbow Trout
+* Wabash River
+    * Darters
+    * Paddlefish
+    * Blue cat
+    * channel cat
+    * flat-head cat
+    * white bass
+    * black bass
+    * striped bass
+    * hybrid striped bass
+    * small-mouth bass
+    * spotted bass
+    * largemouth bass
+    * white crappie
+    * black crappie
+    * bluegill
+    * freshwater drum
+    * sauger
+* Fox River
+    * Channel catfish
+    * White bass
+    * yellow bass
+    * crappie
+* Sugar River
+    * Smallmouth bass
+    * Northern pike 
+    * Largemouth bass
+    * Brown trout
+    * Carp
+    * Creek chub
+    * Bluegill
+    * River redhorse
+* Pecatonica River
+    * Walley
+    * Channel catfish
+    * Flathead catfish
+    * Northern pike
+    * smallmouth bass
+* Kankakee River
+    * Smallmouth bass
+    * Largemouth bass
+    * Rock bass
+    * Walleye
+    * Northern pike
+    * Crappie
+    * Bluegill
+    * Channel catfish
+* Kaskaskia River
+    * Channel catfish
+    * Flathead catfish
+    * Largemouth bass
+    * Crappie
+    * Bluegill
+    * Carp
+    * Freshwater drum
+* Wolf Lake
+    * Largemouth bass
+    * Bream
+    * Crappie
+    * Catfish
+* Horseshoe Lake
+    * Rainbow trout
+    * largemouth bass
+    * channel catfish
+    * steelhead
+    * smallmouth bass
+    * spotted bass
+    * common carp
+    * golden trout
+* Big Muddy River
+    * Bluegill
+    * Channel catfish
+    * Drum
+    * Hybrid Striped Bass
+    * Largemouth bass
+    * Sauger
+    * Striped Bass
+    * White bass
+    * White crappie
+    * yellow bullhead
+* Galena River
+    * Smallmouth bass
+    * Channel Catfish
+    * Largemouth bass
+    * Norther Pike
+    * Walleye
+* Plum River
+    * Bluegill
+    * Carp
+    * Channel catfish
+    * Drum
+    * Largemouth Bass
+    * Northern pike
+    * Smallmouth bass
+    * Sucker bullhead
+    * Yellow bullhead
+* Chicago River
+    * Largemouth bass
+    * Smallmouth bass
+    * bluegill
+    * rock bass
+    * crappie
+    * catfish
+    * carp
+* Lake Calumet
+    * largemouth bass
+    * smallmouth bass
+    * channel catfish
+    * black crappie
+    * carp
+    * freshwater drum
+    * yellow perch
+    * coho salmon
+* Apple River
+    * smallmouth bass
+    * sunfish
+    * crappie
+    * carp
+    * suckers
+* Spoon River
+    * Largemouth bass
+    * smallmouth bass
+    * channel catfish
+    * drum
+    * crappie
+    * bullhead
+    * bluegil
+    * sunfish
+* Lake Waramaug
+    * Bass
+    * brown trout
+    * pike
+* Atchafalaya Basin
+    * Largemouth bass
+    * white crappie
+    * black crappie
+    * warmouth
+    * bluegill
+    * redear sunfish
+    * channel catfish
+* Lake Winnipesaukee
+    * salmon
+    * lake trout
+    * rainbow trout
+* Altamaha River
+    * Largemouth bass
+    * redbreast sunfish
+    * bluegill
+    * redear sunfish
+    * crappie
+    * channel catfish
+    * white catfish
+    * flathead catfish
+* Walker Lake
+    * Tahoe suckers
+    * mountain suckers
+    * mountian whitefish
+    * speckled dace
+    * redside shiners
+    * sculpin
+    * lahontan cutthroat trout
+* Lake Ontario
+    * Chinook/king salmon
+    * coho salmon
+    * rainbow trout
+    * brown trout
+    * lake trout
+    * northern pike
+    * smallmouth bass
+    * largemouth bass
+    * walleye
+    * carp
+* Lake Michigan
+    * Chinook Salmon
+    * Coho Salmon
+    * Steelhead
+    * Lake Trout
+    * Brown Trout
+* Lake Huron
+    * Lake whitefish
+    * Lake trout
+    * Yellow perch
+    * Walleye
+    * Northern pike
+    * Channel catfish
+    * Coho Salmon
+    * White Bass
+* Mississippi River
+    * Walley
+    * Sauger
+    * Catfish
+    * White bass
+    * Freshwater drum
+    * Crappie
+    * bluegill
+    * largemouth bass
+    * white bass
+* Great Salt Lake
+    * No fish
+* Lake Mono
+    * No fish
+* Salton Sea
+    * Mozambique tilapia
+    * Rebelly tilapia
+    * Wami tilapia
+    * Western mosquitofish
+    * European carp
+    * Desert pupfish
+    * Red shiner
+* Saline River
+    * Warmouth
+    * longear
+    * Green sunfish
+    * Bluegills
+    * Crappie
+    * Panfish
+    * Channel catfish
+    * Rock bass
+    * smallmouth bass
+* Vermilion River
+    * Brown Trout
+    * Rainbow Trout
+* Wabash River
+    * Darters
+    * Paddlefish
+    * Blue cat
+    * channel cat
+    * flat-head cat
+    * white bass
+    * black bass
+    * striped bass
+    * hybrid striped bass
+    * small-mouth bass
+    * spotted bass
+    * largemouth bass
+    * white crappie
+    * black crappie
+    * bluegill
+    * freshwater drum
+    * sauger
+* Fox River
+    * Channel catfish
+    * White bass
+    * yellow bass
+    * crappie
+* Sugar River
+    * Smallmouth bass
+    * Northern pike
+    * Largemouth bass
+    * Brown trout
+    * Carp
+    * Creek chub
+    * Bluegill
+    * River redhorse
+* Pecatonica River
+    * Walley
+    * Channel catfish
+    * Flathead catfish
+    * Northern pike
+    * smallmouth bass
+* Kankakee River
+    * Smallmouth bass
+    * Largemouth bass
+    * Rock bass
+    * Walleye
+    * Northern pike
+    * Crappie
+    * Bluegill
+    * Channel catfish
+* Kaskaskia River
+    * Channel catfish
+    * Flathead catfish
+    * Largemouth bass
+    * Crappie
+    * Bluegill
+    * Carp
+    * Freshwater drum
+* Wolf Lake
+    * Largemouth bass
+    * Bream
+    * Crappie
+    * Catfish
+* Horseshoe Lake
+    * Rainbow trout
+    * largemouth bass
+    * channel catfish
+    * steelhead
+    * smallmouth bass
+    * spotted bass
+    * common carp
+    * golden trout
+* Big Muddy River
+    * Bluegill
+    * Channel catfish
+    * Drum
+    * Hybrid Striped Bass
+    * Largemouth bass
+    * Sauger
+    * Striped Bass
+    * White bass
+    * White crappie
+    * yellow bullhead
+* Galena River
+    * Smallmouth bass
+    * Channel Catfish
+    * Largemouth bass
+    * Norther Pike
+    * Walleye
+* Plum River
+    * Bluegill
+    * Carp
+    * Channel catfish
+    * Drum
+    * Largemouth Bass
+    * Northern pike
+    * Smallmouth bass
+    * Sucker bullhead
+    * Yellow bullhead
+* Chicago River
+    * Largemouth bass
+    * Smallmouth bass
+    * bluegill
+    * rock bass
+    * crappie
+    * catfish
+    * carp
+* Lake Calumet
+    * largemouth bass
+    * smallmouth bass
+    * channel catfish
+    * black crappie
+    * carp
+    * freshwater drum
+    * yellow perch
+    * coho salmon
+* Apple River
+    * smallmouth bass
+    * sunfish
+    * crappie
+    * carp
+    * suckers
+* Spoon River
+    * Largemouth bass
+    * smallmouth bass
+    * channel catfish
+    * drum
+    * crappie
+    * bullhead
+    * bluegil
+    * sunfish
+* Lake Waramaug
+    * Bass
+    * brown trout
+    * pike
+* Atchafalaya Basin
+    * Largemouth bass
+    * white crappie
+    * black crappie
+    * warmouth
+    * bluegill
+    * redear sunfish
+    * channel catfish
+* Lake Winnipesaukee
+    * salmon
+    * lake trout
+    * rainbow trout
+* Altamaha River
+    * Largemouth bass
+    * redbreast sunfish
+    * bluegill
+    * redear sunfish
+    * crappie
+    * channel catfish
+    * white catfish
+    * flathead catfish
+* Walker Lake
+    * Tahoe suckers
+    * mountain suckers
+    * mountian whitefish
+    * speckled dace
+    * redside shiners
+    * sculpin
+    * lahontan cutthroat trout
+* Lake Ontario
+    * Chinook/king salmon
+    * coho salmon
+    * rainbow trout
+    * brown trout
+    * lake trout
+    * northern pike
+    * smallmouth bass
+    * largemouth bass
+    * walleye
+    * carp
+* Lake Superior
+    * lake trout
+    * lake whitefish
+    * muskellunge
+    * northern pike
+    * smallmouth bass
+    * walleye
+    * atlantic salmon
+    * brown trout
+    * carp
+    * chonook salmon
+    * coho salmon
+    * rainbow trout
+* Missouri River
+    * Catfish
+    * Walleye
+    * sauger
+    * paddlefish
+* Ohio River
+    * Largemouth Bass
+    * Smallmouth Bass
+    * Catfish
+    * Sauger
+* Herderson Creek
+    * largemouth bass
+    * bluegill
+    * crappie
+    * channel catfish
+* Calumet River
+    * Yellow perch
+    * Coho salmon
+    * Common carp
+    * Rock bass
+* Rock River
+    * channel catfish
+    * walleye
+    * northern pike
+    * largemouth
+    * smallmouth bass
+    * sauger
+    * white bass
+    * bluegill
+    * flathead catfish
+    * drum
+    * bullhead
+* Stillman Creek
+    * Largemouth bass
+    * smallmouth bass
+    * white bass
+    * flathead catfish
+    * spotted bass
+* Sangamon River
+    * Channel Catfish
+* Des Plaines River
+    * Common Carp
+    * largemouth bass
+    * smallmouth bass
+* Iroquis River
+    * smallmouth bass
+    * largemouth bass
+    * rockbass
+    * walleye
+    * northern pike
+    * crapie
+    * bluegill
+    * channel catfish
+* Little Wabash River
+    * Longnose gar
+    * flathhead catfish
+    * stripped bass
+    * blue catfish
+    * silver carp
+    * bighead carp
+    * channel catfish
+* Macoupin Creek
+    * Channel catfish
+    * blue catfish
+    * carp
+    * stripped bass
+* Pacific Ocean
+    * Salmon
+    * Cod
+    * halibut
+    * Marlin
+    * Tuna
+    * ladyfish
+    * herring
+    * sardines
+* Arkansas River
+    * blue catfish
+    * channel catfish
+    * flathead catfish
+    * sauger
+    * largemouth bass
+    * hybrid stripped bass
+    * white bass
+    * spotted sunfish
+    * stripped sunfish
+    * bluegill sunfish
+    * crappie
+    * redear sunfish
+* Pyramid Lake
+    * Tui Chub
+* Atlantic Ocean
+    * Acadian Redfish
+    * atlantic pollock
+    * atlantic spiny dogfish
+    * haddock
+    * scup
+* Iroquois River
+    * smallmouth bas
+    * rockbass
+    * walleye
+    * northern pike
+    * crappie
+    * bluegill

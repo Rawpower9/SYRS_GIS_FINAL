@@ -1,0 +1,150 @@
+The Great Lakes
+38.006870, -87.488487
+
+Lake Michigan
+43.450100, -87.222015
+
+Lake Superior
+47.723087, -86.940720
+
+Mississippi River
+38.334904, -92.211388
+
+Lake Huron
+45.052177, -82.485092
+
+Missouri River
+39.237389, -94.299980
+
+Great Salt Lake
+40.876900, -111.937523
+
+Ohio River
+38.837803, -84.608727
+
+Mono Lake
+38.017000, -118.996778
+
+Salton Sea
+33.328617, -115.843414
+
+Henderson Creek
+26.053890, -81.695999
+
+Saline River
+39.102990, -99.26933
+
+Vermilion River
+50.601570, -91.561930
+
+Calumet River
+41.695694, -87.552829
+
+Wabash River
+40.058762, -83.165947
+
+Fox River
+40.788380, -92.592290
+
+Rock River
+46.346249, -86.927368
+
+Sugar River
+42.968690, -89.573190
+
+Pecatonica River
+42.159040, -89.356000
+
+Stillman Creek
+35.775810, -78.861290
+
+Kankakee River
+41.205270, -87.988770
+
+Kaskaskia River
+39.953388, -74.198151
+
+Sangamon River
+40.042370, -90.199690
+
+Wolf Lake
+43.240379, -86.107048
+
+Vermilion River
+50.601570, -91.561928
+
+Des Plaines River
+41.382600, -88.235820
+
+Horseshoe Lake
+34.913349, -90.305649
+
+Big Muddy River
+37.873480, -89.095420
+
+Iroquois River
+40.881870, -87.284190
+
+Galena River
+41.752140, -86.780260
+
+Plum River
+27.605360, -82.447660
+
+Little Wabash River
+39.867580, -87.429330
+
+Chicago River
+41.888639, -87.621924
+
+Lake Calumet
+41.680429, -87.588155
+
+Macoupin Creek
+39.208300, -90.285760
+
+Apple River
+45.424889, -92.346001
+
+Spoon River
+40.807419, -90.138512
+
+Pacific Ocean
+-8.783195, -124.508522
+
+Lake Waramaug
+41.704530, -73.381020
+
+Atchafalaya Basin
+30.399929, -91.510483
+
+Arkansas River
+40.453819, -104.914177
+
+Lake Winnipesaukee
+43.542400, -71.137817
+
+Altamaha River
+33.471930, -81.942140
+
+Pyramid Lake
+40.090630, -119.706596
+
+Walker Lake
+38.648708, -118.755379
+
+Jim Cook Lake
+41.299700, -86.364380
+
+Caleman Pond
+31.607350, -84.901160
+
+Sellard Lake
+47.632700, -93.058010
+
+Lake Ontario
+43.620182, -77.888947
+
+Atlantic Ocean
+14.599413, -28.673147
+
