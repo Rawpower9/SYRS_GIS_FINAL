@@ -82,7 +82,7 @@ public class App extends Application {
 
         // create an ArcGISMap with an imagery basemap
         ArcGISMap map = new ArcGISMap(BasemapStyle.ARCGIS_IMAGERY);
-        List<ArrayList<String>> fish = readFish("src/main/java/com/mycompany/app/fish.txt");
+        List<ArrayList<String>> fish = readFish("src/main/java/com/mycompany/app/fishes.txt");
         List<String[]> latlong = readLongLat("src/main/java/com/mycompany/app/LatLong.txt");
         List<String[]> status = readFishStatus("src/main/java/com/mycompany/app/status.txt");
         List<String[]> custom = readCustomFish("src/main/java/com/mycompany/app/data.txt");
@@ -107,6 +107,10 @@ public class App extends Application {
             for (int j = 0; j < split_fishes.length; j++) {
                 custom_fishes.add(split_fishes[j]);
             }
+            System.out.println();
+//            for(String j : custom_fishes){
+//                System.out.println(j);
+//            }
             points.get(points.size()-1).setData(custom_fishes);
         }
 

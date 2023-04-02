@@ -26,13 +26,6 @@ public class ParseTxt {
 
         result.add((ArrayList<String>) fishList.clone());
 
-//        for (ArrayList<String> i : result){
-//            for (int j = 0; j < i.size(); j++) {
-//                System.out.println(i.get(j));
-//            }
-//            System.out.print("\n");
-//        }
-
         return result;
     }
 
@@ -56,12 +49,6 @@ public class ParseTxt {
             }
             fishList[0] = st;
         }
-//        for(String[] i: result){
-//            for(String j : i) {
-//                System.out.println(j);
-//            }
-//            System.out.print("\n");
-//        }
 
         return result;
     }
@@ -74,7 +61,11 @@ public class ParseTxt {
             String[] data = st.split(": ");
             String[] fishList = new String[2];
             fishList[0] = data[0].toLowerCase();
-            fishList[1] = data[1];
+            fishList[1] = "";
+            for(int j = 1; j <  data.length; j++){
+                fishList[1]+=data[j];
+            }
+//            fishList[1] = data[1];
             result.add(fishList);
         }
         for(String[] i: result){
