@@ -58,7 +58,7 @@ public class ParseTxt {
         String st;
         List<String[]> result = new ArrayList<String[]>();
         while((st = br.readLine()) != null) {
-            String[] data = st.split(": ");
+            String[] data = st.split(":");
             String[] fishList = new String[2];
             fishList[0] = data[0].toLowerCase();
             fishList[1] = "";

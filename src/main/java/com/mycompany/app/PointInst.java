@@ -125,7 +125,9 @@ public class PointInst {
                 dialog.setTitle(fish_name);
                 String text = "Unknown" + fish_name;
                 for(int i = 0; i < status.size(); i++){
-                    if(fish_name.toLowerCase().equals(status.get(i)[0])){
+//                    System.out.println(status.get(i)[1]);
+                    System.out.println(fish_name +" " + status.get(i)[0]);
+                    if(fish_name.strip().equalsIgnoreCase(status.get(i)[0].strip())){
                         text = status.get(i)[1];
                         break;
                     }
@@ -149,31 +151,6 @@ public class PointInst {
             newWindow.setScene(new Scene(container));
             newWindow.show();
 
-//            Alert dialog = new Alert(Alert.AlertType.INFORMATION);
-//            String img_location;
-//            try{
-//                img_location = new File("/Users/ritvi/ritvi/IdeaProjects/java-gradle-starter-project/src/main/java/com/mycompany/app/waterImages2/"+this.image).toURI().toString();
-//            } catch (Exception e){
-//                img_location = new File("/Users/ritvi/ritvi/IdeaProjects/java-gradle-starter-project/src/main/java/com/mycompany/app/default.jpeg").toURI().toString();
-//            }
-//
-//            ImageView icon = new ImageView(img_location);
-//            icon.setFitHeight(48);
-//            icon.setFitWidth(48);
-//            dialog.getDialogPane().setGraphic(icon);
-//            dialog.initOwner(mapView.getScene().getWindow());
-//            dialog.setHeaderText(null);
-//            dialog.setTitle(this.name);
-//
-//            String text = "";
-//
-//            for (int i = 1; i < this.data.size(); i++) {
-//                text += data.get(i);
-//                text += "\n";
-//            }
-//
-//            dialog.setContentText(text);
-//            dialog.showAndWait();
         } catch (Exception e) {
             // on any error, display the stack trace
             e.printStackTrace();
